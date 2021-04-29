@@ -14,7 +14,7 @@ const lorem =
 export default function App() {
    return (
        <div className="App">
-       {/* Navigation Bar */}
+       {/* Navigation Bar */}\
        <Navbar bg ='light' variant = 'light' sticky = "top">
          <Navbar.Brand href = "/" className="textlogo"><strong>MENU</strong></Navbar.Brand>
          <Navbar.Toggle aria-controls="basic-navbar-nav"/>
